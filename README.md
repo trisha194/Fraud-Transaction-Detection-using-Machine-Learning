@@ -34,12 +34,6 @@ The dataset is too large to be included directly in this repository. You can dow
 
 [Download Dataset from Google Drive](https://drive.google.com/file/d/1g6TVJL67AYVF4rSWQjrrQizHoQXmtVVW/view?usp=sharing)
 
- 
-    
-The dataset is too large to be included in this repository. You can download it from the following link:
-
-[Download Dataset from Google Drive]([https://drive.google.com/file/d/1g6TVJL67AYVF4rSWQjrrQizHoQXmtVVW/view?usp=sharing])
-
 ## Project Workflow
 1. **Data Preprocessing**: 
    - Handle missing values.
