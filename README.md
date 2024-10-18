@@ -33,7 +33,7 @@ The primary goal of this project is to detect fraudulent transactions and help t
     
 The dataset is too large to be included in this repository. You can download it from the following link:
 
-[Download Dataset from Google Drive]([https://drive.google.com/your-link](https://drive.google.com/file/d/1g6TVJL67AYVF4rSWQjrrQizHoQXmtVVW/view?usp=sharing))
+[Download Dataset from Google Drive]([https://drive.google.com/file/d/1g6TVJL67AYVF4rSWQjrrQizHoQXmtVVW/view?usp=sharing])
 
 ## Project Workflow
 1. **Data Preprocessing**: 
@@ -98,12 +98,3 @@ The models were evaluated using the following metrics:
   - Monitor transactions with frequent `TRANSFER` and `CASH_OUT` types.
   - Enhance real-time fraud detection infrastructure with XGBoost or Random Forest models.
   
-Future work could focus on:
-- Exploring other ensemble models and deep learning techniques.
-- Improving recall without sacrificing precision.
-- Real-time fraud detection system integration.
-
-## How to Use the Code
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/trisha194/fraud-detection.git
