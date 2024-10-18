@@ -29,6 +29,11 @@ The primary goal of this project is to detect fraudulent transactions and help t
   - `newbalanceDest`: Balance of the recipient after the transaction.
   - `isFraud`: Target variable (1 for fraud, 0 for non-fraud).
   - `isFlaggedFraud`: Whether the transaction was flagged as fraud.
+  - 
+The dataset is too large to be included directly in this repository. You can download it from the following link:
+
+[Download Dataset from Google Drive](https://drive.google.com/file/d/1g6TVJL67AYVF4rSWQjrrQizHoQXmtVVW/view?usp=sharing)
+
  
     
 The dataset is too large to be included in this repository. You can download it from the following link:
